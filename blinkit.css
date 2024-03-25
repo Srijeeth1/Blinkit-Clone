@@ -1,0 +1,90 @@
+/* main section-1  */
+.custom-bg{
+  background-image: url('img-1.jpg');
+  background-size: cover; 
+background-position: center;
+  height: 30vh;
+  width: 100vw;
+  border-radius: 15px;
+
+}
+.custom-bg>h5,h1{
+  color: whitesmoke;
+  letter-spacing: 5px;
+}
+
+/* main section-2  */
+.custom-box-1,.custom-box-2,.custom-box-3{
+  height: 30vh;
+  width: 27vw;
+  border-radius: 15px;
+}
+.custom-box-1{
+  background-image: url('box-1.jpg');
+  background-size: cover;
+}
+.custom-box-2{
+  background-image: url('box-2.webp');
+}
+.custom-box-3{
+  background-image: url('box-3.jpg');
+}
+
+/* main section-3 */
+.box > img{
+  height: 25vh;
+  width: 7vw;
+  border-radius: 15px;
+}
+
+/* main section-4 */
+.heading>a{
+  text-decoration: none;
+  color: green;
+}
+
+.box-1{
+  height: 42vh;
+  width: 9vw;
+  border-radius: 15px;
+}
+.box-1>img{
+  height: 140px;
+  width: 140px;
+
+}
+.green-btn {
+  background-color: white;
+  border-color: green;
+  color: green;
+  height: 38px;
+
+}
+/* main section-5 */
+.box-2{
+  height: 45vh;
+  width: 9vw;
+  border-radius: 15px;
+}
+.box-2>img{
+  height: 140px;
+  width: 140px;
+}
+ /* main section6 */
+ .section6{
+  list-style: none;
+ }
+
+ .section6 li >a{
+  text-decoration: none;
+  color: #666666;
+ }
+
+.Categories>a{
+    text-decoration: none;
+    color: green;
+   
+}
+.footer>img{
+ background-color:  black;
+}
